@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  VTKLibrary.cpp
+  vtkRANSACPlane.cpp
+H:\DATN\nhap\code_all_ver3\KinectV2\vtkRANSACPlane.cpp(132,37): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+vtkRANSACPlane.obj : warning LNK4248: unresolved typeref token (01000017) for 'vtkAlgorithmOutput'; image may not run
+VTKLibrary.obj : warning LNK4248: unresolved typeref token (01000020) for 'vtkAlgorithmOutput'; image may not run
+vtkRANSACPlane.obj : warning LNK4248: unresolved typeref token (0100001E) for 'vtkInformationDataObjectKey'; image may not run
+vtkRANSACPlane.obj : warning LNK4248: unresolved typeref token (0100001F) for 'vtkInformationStringVectorKey'; image may not run
+  KinectV2.vcxproj -> H:\DATN\nhap\code_all_ver3\x64\Release\VTKLibrary.dll
