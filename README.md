@@ -1,6 +1,11 @@
 # Bin-Picking-Robot-Final
 Control 5-Dof bin-picking robot using 3D image-processing, deep learning and voice recognition
 
-![code-all-ver3](doc/Screenshot 2021-07-10 033802.png)
+![Bin-Picking-Robot-Final](doc/Screenshot 2021-07-10 033802.png)
 
 ![Bin-Picking-Robot-Final](doc/Screenshot 2021-07-10 033821.png)
+
+## NuGet
+Quick install Alturos.Yolo over [NuGet](https://www.nuget.org/packages/Alturos.Yolo)
+```
+PM> install-package Alturos.Yolo (C# wrapper and C++ dlls 28MB)
