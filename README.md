@@ -11,5 +11,5 @@ Control 5-Dof bin-picking robot using 3D image-processing, deep learning and voi
 ## NuGet
 Quick install Alturos.Yolo over [NuGet](https://www.nuget.org/packages/Alturos.Yolo)
 ```
-PM> Install-Package Alturos.Yolo -Version 3.0.6 alpha (C# wrapper and C++ dlls 28MB)
+PM> Install-Package Alturos.Yolo -Version 3.0.6-alpha (C# wrapper and C++ dlls 28MB)
 
